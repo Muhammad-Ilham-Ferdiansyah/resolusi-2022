@@ -7,3 +7,4 @@ Rencana Belajar Pemrograman
 - React JS
 - Node JS
 - TailwindCSS
+- Design UI/UX
