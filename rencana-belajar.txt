@@ -5,6 +5,7 @@ Rencana Belajar Pemrograman
   * ES6
   * Framework JS
     ^ Vue.js
+    ^ Angular.js
 - React JS
 - Node JS
 - TailwindCSS
