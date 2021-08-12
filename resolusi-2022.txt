@@ -1,7 +1,7 @@
 Resolusi di tahun 2022 :
 1. Saya senantiasa istikomah dalam belajar pemrograman
 2. Belajar tentang Laravel, JavaScript dan diakhir akan belajar Node.js dan React.js
-3. Saya bisa membuat aplikasi kompleks diharapkan memudahkan melakukan aktifitas
+3. Saya bisa membuat aplikasi kompleks
 4. Saya bisa menghasilkan uang sendiri di tahun 2022
 5. Lulus Kuliah dengan predikat Cum-laude
 
