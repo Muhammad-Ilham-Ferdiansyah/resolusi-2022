@@ -2,7 +2,7 @@ Rencana Belajar Pemrograman
 - PHP CodeIgniter 4
 - PHP Laravel 8
 - JavaScript Advanced
-  * ES6
+  * ES7
   * Framework JS
     ^ Vue.js
     ^ Angular.js
