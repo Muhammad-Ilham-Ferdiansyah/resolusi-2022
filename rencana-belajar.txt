@@ -1,0 +1,7 @@
+Rencana Belajar Pemrograman
+- PHP CodeIgniter 4
+- PHP Laravel 8
+- JavaScript Advanced
+- React JS
+- Node JS
+- TailwindCSS
