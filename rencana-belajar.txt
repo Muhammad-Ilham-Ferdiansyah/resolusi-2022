@@ -4,7 +4,9 @@ Rencana Belajar Pemrograman
 - JavaScript Advanced
   * ES6
   * Framework JS
+    ^ Vue.js
 - React JS
 - Node JS
 - TailwindCSS
 - Design UI/UX
+- Phyton
